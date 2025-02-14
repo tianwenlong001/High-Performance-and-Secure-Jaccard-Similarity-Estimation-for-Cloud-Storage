@@ -8,9 +8,9 @@ Additionally, it exhibits superior performance in Jaccard similarity estimation,
 
 ## Related Papers:
 
-- Zhixiong Xie, Wenlong Tian<sup>*</sup>, Jianfeng Lu, Weijun Xiao, and Zhiyong Xu. 2025. High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage. In Companion of the 16th ACM/SPEC International Conference on Performance Engineering (WWW Companion ’25), April 28-May 2, 2025, Sydney, NSW, Australia. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3701716.3715588
+- Zhixiong Xie, Wenlong Tian<sup>*</sup>, Jianfeng Lu, Weijun Xiao, and Zhiyong Xu. 2025. High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage. In Companion of the 16th ACM/SPEC International Conference on Performance Engineering (WWW Companion ’25), April 28-May 2, 2025, Sydney, NSW, Australia. ACM, New York, NY, USA. https://doi.org/10.1145/3701716.3715588
 
-Commercial use is welcome, but please let us know by email ([wenlongtian@usc.edu.cn](mailto:xiawen@hit.edu.cn)) and report any problems you encounter.
+High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage © 2025 by Wenlong Tian, Zhixiong Xie, Jianfeng Lu, Weijun Xiao, Zhiyong Xu is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/.  
 
 ## Requirements:
 
