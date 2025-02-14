@@ -31,7 +31,3 @@ High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage © 2
   ![sim](sim.png)
 
 
-
-```
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14868454.svg)](https://doi.org/10.5281/zenodo.14868454)
-```
